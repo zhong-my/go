@@ -1,4 +1,4 @@
-# The Go Programming Language
+# The Go Programming Language（[中文翻译在这里](./README_zh_CH.md)）
 
 Go is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
